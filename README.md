@@ -22,6 +22,7 @@ Adobe Creative Suite (Premiere, After Effects, Photoshop)
 Microsoft Office
 
 ## Links
+- **Portfolio Reel**: Highlights from my film production and visual storytelling work available upon request.
 - **GitHub Projects**: Explore my repos for more prototypes and tools.
 - **Creative Work**: Details on my sold screenplays, festival films, and marketing campaigns available on request.
 
